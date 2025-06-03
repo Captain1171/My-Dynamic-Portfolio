@@ -1,17 +1,17 @@
 [
-{
+ {
     "name":"My First HTML Page",
     "Description":"A Simple Static Page Demonstrating Basix HTML Structure And Elements",
     "link":"#"
-},
-{
+ },
+ {
     "name":"CSS Styling Practice",
     "Description":"Explored Various CSS Properties To StyleText, Colors, And Layout",
     "link":"#"
-},
-{
+ },
+ {
     "name":"Interactive Javascript Fun",
     "Description":"Implemented Basic Javascript To Add Dynamic Behavior And User Interaction",
     "link":"#"
-}
+ }
 ]
