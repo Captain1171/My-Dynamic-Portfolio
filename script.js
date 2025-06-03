@@ -38,7 +38,7 @@ const projectscontainer = document.getElementById('projects-container');
 
 async function loadProject() {
     try {
-        const response = await fetch('data/portifolio_items.json'); //Fetch the JSON file
+        const response = await fetch('portfolio.json'); //Fetch the JSON file
         if (!response.ok) {
             throw new Error('HTTP error! status: ${response.status}');
         }
